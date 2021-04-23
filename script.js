@@ -11,9 +11,13 @@ $(document).ready(function () {
         localStorage.setItem(time, text);
     })
 
+// time tracker for current time
+
     function timeTracker() {
         var timeNow = moment().hour();
     }
+
+// time block function for past, future, and present items
 
     $(".time-block").each(function () {
         var blockTime = parseInt($(this).attr("id").split("hour")[1]);
@@ -34,6 +38,8 @@ $(document).ready(function () {
             $(this).addClass("future");
         }
     })
+
+// allows user to save their tasks in local storage upon entering
 
 $("#hour8 .description").val(localStorage.getItem("hour8"));
 $("#hour9 .description").val(localStorage.getItem("hour9"));
