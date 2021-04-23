@@ -14,7 +14,7 @@ Daily planners or schedulers help folx to organize their schedules better. It al
 
 # Considerations
 
-As I worked through the assignment, it's best to keep in mind what variables and functions to create while utilizing jquery (and keeping bootstrap in mind) to ensure complete functionality of the timetables and hour stamps.
+As I worked through the assignment, it's best to keep in mind what variables and functions to create while utilizing jquery (and keeping bootstrap in mind) to ensure complete functionality of the timetables and hour stamps. In addition to saving logs into the users' local storage.
 
 # Acceptance Criteria
 
@@ -37,5 +37,7 @@ THEN the saved events persist
 Angelica Sargent
 
 # Screenshot
+![Screenshot](./assets/images/Screenshot1.png)
 
 # Link
+Take a look at this [link](https://agraysargent.github.io/Work-Day-Scheduler/).
