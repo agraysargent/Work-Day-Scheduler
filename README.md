@@ -1,6 +1,6 @@
 # Work-Day-Scheduler
 
-This assignment required us to create a work day scheduler to help assist folx with schedule organization by creating a daily planner. The planner will function utilizing html and CSS, in conjunction with jquery, bootstrap, and javascript functions.
+This assignment required us to create a workday scheduler to help assist folx with schedule organization by creating a daily planner. The planner will utilize HTML and CSS in conjunction with jquery, bootstrap, and javascript functions.
 
 # User Story
 
@@ -10,7 +10,7 @@ SO THAT I can manage my time effectively
 
 # Description
 
-Daily planners or schedulers help folx to better organize their schedules. It allows those to best plan out their days in order to best complete daily tasks and get work done.
+Daily planners or schedulers help folx to organize their schedules better. It allows those to best plan out their days to best complete daily tasks and get work done.
 
 # Considerations
 
