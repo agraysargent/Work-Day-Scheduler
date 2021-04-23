@@ -1,8 +1,9 @@
-// displays the current date in the header
+// displays the current date in the header, in addition to the timenow for saved items
 var currentDay = moment().format('dddd, MMM Do YYYY');
 var timeNow = moment().hour();
 $("#currentDay").html(currentDay);
 
+// function for save button in conjunction with the var text and time
 $(document).ready(function () {
     $(".saveBtn").on("click", function () {
         var text = $(this).siblings(".description").val();
